@@ -2,3 +2,4 @@
 2. Também coloquei coisas para um segundo commit.
 3. CONTINUO NO MASTER
 4. ESTE ESTÁ SENDO EDITADO PELO RODRIGO_CLONE
+5. AGORA EU VOU EDITAR
